@@ -1,0 +1,40 @@
+h4{
+    text-align: center;
+    font-size: 25px;
+    margin:0;
+    border-bottom: solid 1px green;
+    padding-bottom: 12px;
+}
+.card-header{
+    width: 100%;
+    padding:5px;
+    padding-left: 10px;
+}
+.card{
+    background-color: white;
+    border-radius: 3px; 
+    width: 100%;  
+    margin-top: 6%;
+    box-shadow: 10px 10px 5px rgb(71, 69, 69);
+    margin-bottom: 6%;
+}
+.card-body{
+    margin-top: 2%; 
+    padding: 5px;
+}
+.btn{
+    text-align: center;
+    margin-left: 10%;
+}
+
+input[type="text"],[type="email"],select{
+    border-radius: 6px;
+    width: 50%;
+}
+/* .alert{
+    padding:5px;
+    padding-left: 12px;
+    border-radius: 6px;
+} */
+
+
